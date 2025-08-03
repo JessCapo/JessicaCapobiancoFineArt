@@ -12,3 +12,15 @@ div.scroll-container img {
 body{
     background-color: darkseagreen;
 }
+p{
+    border: 3px solid black;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
