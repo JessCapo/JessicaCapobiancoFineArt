@@ -19,7 +19,7 @@ div.scroll-container img {
   padding: 10px;
 }
 .bg-light{
-    background-image: url(../JessicaCapobiancoFineArt/Capobianco_Jess_AbovetheWater.jpgxs);
+    background-image: url(../JessicaCapobiancoFineArt/Capobianco_Jess_AbovetheWater.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -33,8 +33,8 @@ div.scroll-container img {
 }
 
 body{
-    background-color: darkseagreen;
-    color: rgb(57, 76, 23)
+    background-color: rgb(61, 101, 61);
+    color: rgb(195, 207, 177)
 }
 
 h2{
